@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://kuni.mom/sitemap.xml
+Sitemap: https://lovi.cam/sitemap.xml
